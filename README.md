@@ -9,7 +9,6 @@ Proyecto de MA2004B — Optimización estocástica, Tecnológico de Monterrey, C
 - Celina Medina Bucio
 - Daniela Iliana Rivera García
 - Frida Azenette Hernández Illescas
-- Abigail Godoy Araujo
 
 ## Estructura del repo
 
